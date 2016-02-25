@@ -1,4 +1,4 @@
-# NetQuiz Continuação dos Projetos 1 e 2
+# NetQuiz SOAP
 Jogo de perguntas e respostas, desenvolvido para a disciplina de aplicações distribuídas, no curso de Sistemas de Informação da Universidade Federal de Goiás. 
 
 ### Descrição
