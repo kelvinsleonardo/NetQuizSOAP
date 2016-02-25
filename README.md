@@ -11,4 +11,6 @@ Cada jogador terá 8 tentativas para escolher as questões, cada questão tem o 
 
 - Caso os jogadores acertem a mesma quantidade de questões o jogo terminará empatado.    
 
-Toda a documentação do projeto está no [Wiki](https://gitlab.com/ad-si-2015-2/projeto3-grupo3/wikis/home).
+[Tutorial em Vídeo Linux](https://youtu.be/c5OJrmBq2Pg)
+
+[Tutorial em Vídeo Windows](https://youtu.be/GAgWJ6nSKVQ)
