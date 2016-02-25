@@ -1,0 +1,16 @@
+ls
+f?
+f:
+dir
+java -jar ClienteNetQuiz.jar 
+f?
+java -jar ClienteNetQuiz.jar 
+ldir
+f:
+ls
+dir
+ls
+cd Downloads\
+f:
+dir
+java -jar ClienteNetQuiz.jar 

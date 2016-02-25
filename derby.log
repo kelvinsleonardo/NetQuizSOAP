@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 31 16:53:23 BRST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0152-9908-48be-000002d887f0 
+on database directory memory:/home/kelvin/EclipseProjetos/NetQuizSOAP/netquiz with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/kelvin/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=/home/kelvin/EclipseProjetos/NetQuizSOAP
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-76-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
